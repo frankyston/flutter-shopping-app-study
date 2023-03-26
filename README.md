@@ -1,16 +1,14 @@
 # app_studies
 
-A new Flutter project.
+Este projeto tem como objetivo aprender a desenhar interface no flutter.
 
-## Getting Started
+Vídeo de estudo do canal Flutter Skills: https://www.youtube.com/watch?v=P7OLRwhZle4
 
-This project is a starting point for a Flutter application.
+A branch main tem o código feito pelo vídeo.
 
-A few resources to get you started if this is your first Flutter project:
+Neste projeto vai existir outras branch com alterações e melhorias do código para versões diferentes do projeto como forma de evolução.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<video src="./demo/demo.mp4" controls="controls" style="max-width: 530px;">
+</video>
