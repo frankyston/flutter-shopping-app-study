@@ -10,5 +10,4 @@ Neste projeto vai existir outras branch com alterações e melhorias do código 
 
 ## Demo
 
-<video src="./demo/demo.mp4" controls="controls" style="max-width: 530px;">
-</video>
+https://youtube.com/shorts/1l0VQNsEu_k?feature=share
